@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5 {
 .outer {
   height: 70px;
   width: 66px;
-  background: black;
+  background: hotpink;
   -webkit-clip-path: polygon(50% 0%, 100% 30%, 100% 70%, 50% 100%, 0% 70%, 0% 30%);
 clip-path: polygon(50% 0%, 100% 30%, 100% 70%, 50% 100%, 0% 70%, 0% 30%);
 }
@@ -41,6 +41,7 @@ clip-path: polygon(50% 0%, 100% 30%, 100% 70%, 50% 100%, 0% 70%, 0% 30%);
   left: 0;
   right: 0;
   top: 50%;
+  color: hotpink;
   transform: translateY(-44%) translateX(-5px);
   font-size: 28px;
   margin: 0;
