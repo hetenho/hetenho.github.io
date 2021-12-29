@@ -14,6 +14,9 @@ function Nav() {
         <li className={styles.item}>
           <a className={styles.link}>About</a>
         </li>
+        <li className={styles.item}>
+          <a className={styles.link}>Other</a>
+        </li>
       </ul>
     </nav>
   );
